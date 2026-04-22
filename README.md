@@ -79,5 +79,9 @@ Used metrics:
 
 ## ▶️ How to Run
 1. Clone the repository:
+2.Install dependencies:
+  pip install -r requirements.txt
+3.Run the notebook:
+  jupyter notebook
 ```bash
 git clone https://github.com/your-username/credit-card-fraud-detection-ml.git
