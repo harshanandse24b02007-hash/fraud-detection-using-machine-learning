@@ -171,12 +171,14 @@ Focus is on **high recall** to minimize undetected fraud.
 
 ## 👨‍💻 Author
 
-B.Tech CSE Student
+**Harshanand**
+B.Tech in Software Engineering
+Delhi Technological University (DTU)
+
 Machine Learning & Software Engineering Enthusiast
 
 ---
-
-## ⭐ Project Highlights (For Recruiters)
+## ⭐ Project Highlights 
 
 * End-to-end ML pipeline implementation
 * Real-world financial fraud detection use-case
